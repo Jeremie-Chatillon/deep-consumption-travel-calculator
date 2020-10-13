@@ -4,11 +4,10 @@
 
 
 
-## Overwiew
+## Overview
 
-The main goal of this application is to create a calculator who gonna compute all the gray energy to create and to deliver some food. The users would be able to crate a earth between two localizations and the app will calculate the energy needed. It will be possible to add the product "creation energy cost" for some localization.
+The main goal of this application is to create a calculator who gonna compute all the gray energy to create and to deliver some food. The users would be able to crate a earth between two localizations and the app will calculate the energy needed. It will be possible to add the product "creation energy cost" for some localization. This is to respond to the question: **"Is it better to consume local or something produced in a other country in best condition."**
 
- This is to respond to the question: **"Is it better to consume local or something produced in a other country in best condition."**
 The second goal is to create a community of developers and customers who care about ecology and want to share them knowledges. That is why it gonna be an open source project. Every body can make some improvement, correct some code or make some change proposals. The application's data gonna be provided by the users and cross-validated. <!-- créer un discord -->
 
 The last goal is more personnel. I want is to use my IT competences to create a project, discover new technologies and improve myself. The technologies surely would not be the bests or the most use. However, the gonna teach me something and be open source to fit with the second objective.
@@ -100,6 +99,14 @@ firebase simple
 ### front-end
 
 ##### framework
+
+Vue.js
+
+#### Linter
+
+Eslint
+
+​	`yarn add -D eslint eslint-plugin-vue@next`
 
 
 

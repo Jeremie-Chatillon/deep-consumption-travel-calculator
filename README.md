@@ -42,10 +42,6 @@ This step is to create a web app to diplay a card on which the user can make som
   - The total distance.
   - One distance for each means of transport.
 
-##### Time: 
-
-It has to be finished on 1st August 2020. (one week should be enough to learn Vue.js and create a map)
-
 
 
 ### Step 2: Rooting Map validation
